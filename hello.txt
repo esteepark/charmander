@@ -1,2 +1,4 @@
 hello text file
 adding text
+재밌는 파이리
+어려웡 깃
